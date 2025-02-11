@@ -39,4 +39,4 @@ Feel free to fork the repository and submit pull requests with improvements or b
 ## Acknowledgments
 
 - Special thanks to Kaggle for providing the dataset.
-- Inspiration from various open-source projects on stroke prediction.🚀  
+- Inspiration from various open-source projects on diabetes prediction.🚀  
